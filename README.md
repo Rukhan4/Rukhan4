@@ -2,8 +2,12 @@
   <div align="center">
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" align="center"/>
+    <br>
+    <a href="https://www.linkedin.com/in/surur-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </h1>
+  
   </div>
+  
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -16,7 +20,6 @@
   <li>👀 My current focus is on expanding my knowledge of web development, particularly in frontend through extensive practise in developing projects</li>
   <li>🌱 I’m currently learning Javascript, HTML and CSS</li>
   <li>💞️ I’m looking to collaborate on front end projects that offer a captivating challenge which expands my domain knowledge and technical capabilities while making a noteworthy contribution to your goals!</li>
-  <li>📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/surur-khan/) </li>
 </ul>
 
 
