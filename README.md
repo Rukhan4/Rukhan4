@@ -10,11 +10,15 @@
 </div>
  
  ## 👨‍💻 About me:
-- 👋 Hi, I’m Surur Khan!
-- 👀 My current focus is on expanding my knowledge of web development, particularly in frontend through extensive practise in developing projects
-- 🌱 I’m currently learning Javascript, HTML and CSS
-- 💞️ I’m looking to collaborate on front end projects that offer a captivating challenge which expands my domain knowledge and technical capabilities while making a noteworthy contribution to your goals!
-- 📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/surur-khan/) 
+ 
+<ul>
+  <li>👋 Hi, I’m Surur Khan!</li>
+  <li>👀 My current focus is on expanding my knowledge of web development, particularly in frontend through extensive practise in developing projects</li>
+  <li>🌱 I’m currently learning Javascript, HTML and CSS</li>
+  <li>💞️ I’m looking to collaborate on front end projects that offer a captivating challenge which expands my domain knowledge and technical capabilities while making a noteworthy contribution to your goals!</li>
+  <li>📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/surur-khan/) </li>
+</ul>
+
 
 ## 🛠️: Languages and Tools:
 <div>
