@@ -20,7 +20,7 @@
   <li>👀 My current focus is on expanding my knowledge of web development, particularly in frontend through extensive practise in developing projects</li>
   <li>🌱 I’m currently learning Javascript, HTML and CSS by working with the frontend altering website design!</li>
   <li> ⌨️ I’m looking to collaborate on front end projects that offer a captivating challenge which expands my domain knowledge and technical capabilities while making a noteworthy contribution to your goals!</li>
-  <li> 🏅 When I'm not coding, my hobbies include powerlifting, competitive archery, deep sea diving, cooking, poetry and vocalism!
+  <li> 🏅 When I'm not coding, my hobbies include powerlifting, competitive archery, deep sea diving, boxing, cooking, poetry and vocalism.
 </ul>
 
 
