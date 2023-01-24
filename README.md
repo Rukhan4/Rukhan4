@@ -43,6 +43,4 @@
 ## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rukhan4&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhan4&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [Code Wars Profile](https://www.codewars.com/users/SururKhan)
