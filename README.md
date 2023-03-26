@@ -1,10 +1,10 @@
-<h1>
+<!-- <h1>
   <div align="center">
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" align="center"/>
     <br>
     <a href="https://www.linkedin.com/in/surur-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</h1>
+</h1> -->
   
   </div>
   
@@ -47,4 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhan4&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[Code Wars Profile](https://www.codewars.com/users/SururKhan)
+<!-- [Code Wars Profile](https://www.codewars.com/users/SururKhan)
+ -->
