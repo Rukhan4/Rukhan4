@@ -9,19 +9,19 @@
   </div>
   
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="350"/>
-</div>
+</div> -->
  
- ## 👨‍💻 About me:
+<!--  👨‍💻 About me:
  
-<ul>
+ <ul>
   <li>👋 Hi, I’m Surur Khan!</li>
   <li>👀 My current focus is on expanding my knowledge of frontend web development and learning essential OOP concepts in Java in University</li>
   <li>🌱 I’m currently learning Javascript, HTML and CSS by working with the frontend altering website design!</li>
   <li> ⌨️ I’m looking to collaborate on front end projects that offer a captivating challenge which expands my domain knowledge and technical capabilities while making a noteworthy contribution to your goals!</li>
   <li> 🏅 When I'm not coding, my hobbies include powerlifting, competitive archery, deep sea diving, boxing, cooking, poetry and vocalism.
-</ul>
+</ul> -->
 
 
 ## 🛠️: Languages and Tools:
