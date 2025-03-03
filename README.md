@@ -1,4 +1,4 @@
-# Hi, I'm Surur Khan! 👋  
+# Hi, I'm Surur Khan! 
 
 ## 🚀 About Me  
 I'm a **Mathematics and Computer Science** student at the **University of Waterloo**, passionate about **bioinformatics, genomics, and software development**. I enjoy working on computational biology problems, designing efficient algorithms, and leveraging cloud technologies for research and analytics.  
