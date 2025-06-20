@@ -1,5 +1,5 @@
 ## About Me  
-I'm a **Mathematics and Computer Science** student at the **University of Waterloo**, passionate about **bioinformatics, genomics, and software development**. I enjoy working on computational biology problems, designing efficient algorithms, and leveraging cloud technologies for research and analytics.  
+I'm a **Mathematics and Computer Science** student at the **University of Waterloo**.I enjoy working on computational biology problems, designing efficient algorithms, and leveraging cloud technologies for research and analytics.  
 
 ## What I'm Working On  
 - **Bioinformatics & Genomics:** Developing computational tools for biological data analysis.  
