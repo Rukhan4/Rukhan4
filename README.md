@@ -1,5 +1,5 @@
 ## About Me  
-I  hold a bachelor of Mathematics in Honours Mathematics and Computer Science
+I  hold a bachelor of Mathematics in Honours Mathematics and Computer Science.
 
 I am current working at the Ministry of Education in Port-of-Spain, Trinidad and Tobago as an AP - full stack developer.
 
