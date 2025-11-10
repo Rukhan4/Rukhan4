@@ -13,7 +13,7 @@ I'm a **Mathematics and Computer Science** student at the **University of Waterl
 - **Certifications:** AZ-900 (Azure Fundamentals), AI-900 (Azure AI Fundamentals), Bioinformatics Specialization (UCSD)
 
 ## GitHub Stats  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhan4&langs_count=8&layout=compact&theme=dark&exclude_repo=covid-analysis)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Connect With Me  
 - **GitHub:** [github.com/Rukhan4](https://github.com/Rukhan4)  
