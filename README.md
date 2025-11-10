@@ -1,15 +1,16 @@
 ## About Me  
-I'm a **Mathematics and Computer Science** student at the **University of Waterloo**.I enjoy working on computational biology problems, designing efficient algorithms, and leveraging cloud technologies for research and analytics.  
+I  hold a bachelor of Mathematics in Honours Mathematics and Computer Science
 
-## What I'm Working On  
-- **Bioinformatics & Genomics:** Developing computational tools for biological data analysis.  
-- **Cloud Computing:** Exploring Azure services for scalable research applications.  
-- **Data Structures & Algorithms:** Strengthening my problem-solving and coding skills.  
+I am current working at the Ministry of Education in Port-of-Spain, Trinidad and Tobago as an AP - full stack developer.
 
-##  Skills & Tech Stack  
-- **Languages:** Python, Bash, JavaScript, C, R, SAS, Java  
-- **Databases:** PostgreSQL, SQLite, SQL  
-- **Cloud & Tools:** Azure, GitHub, Ubuntu, Git  
+#### Current Stack: Laravel, Vue.js, Node.js, TailwindCSS, DaisyUI, PHP, Docker Sail, Ubuntu, Git
+
+## Skills & Tech Stack
+- **Languages:** PHP, Python, Javascript, HTML, CSS, SQL, Bash
+- **Frameworks & Libraries:** Laravel, Vue.js, TailwindCSS, DaisyUI
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Dev Tools & Environments:** Git, GitHub, WSL, Ubuntu, Composer, Node.js / NPM
+- **Cloud & Platforms:** Azure, Docker (Laravel Sail)
 - **Certifications:** AZ-900 (Azure Fundamentals), AI-900 (Azure AI Fundamentals), Bioinformatics Specialization (UCSD)
 
 ## GitHub Stats  
