@@ -14,7 +14,7 @@ I am current working at the Ministry of Education in Port-of-Spain, Trinidad and
 - **Certifications:** AZ-900 (Azure Fundamentals), AI-900 (Azure AI Fundamentals), Bioinformatics Specialization (UCSD)
 
 ## GitHub Stats  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhan4&theme=dracula&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhan4&theme=dracula&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me  
 - **GitHub:** [github.com/Rukhan4](https://github.com/Rukhan4)  
