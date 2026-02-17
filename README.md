@@ -9,12 +9,9 @@ I am current working at the Ministry of Education in Port-of-Spain, Trinidad and
 - **Languages:** PHP, Python, Javascript, HTML, CSS, SQL, Bash
 - **Frameworks & Libraries:** Laravel, Vue.js, TailwindCSS, DaisyUI
 - **Databases:** MySQL, PostgreSQL, SQLite
-- **Dev Tools & Environments:** Git, GitHub, WSL, Ubuntu, Composer, Node.js / NPM
+- **Dev Tools & Environments:** Excel, PowerBI, Git, GitHub, WSL, Ubuntu, Composer, Node.js / NPM
 - **Cloud & Platforms:** Azure, Docker (Laravel Sail)
 - **Certifications:** AZ-900 (Azure Fundamentals), AI-900 (Azure AI Fundamentals), Bioinformatics Specialization (UCSD)
-
-## GitHub Stats  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhan4&theme=dracula&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me  
 - **GitHub:** [github.com/Rukhan4](https://github.com/Rukhan4)  
